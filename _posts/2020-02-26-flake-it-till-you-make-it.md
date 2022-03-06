@@ -1,17 +1,63 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Privacy Policy
+subtitle: Nezuko Bot's Privacy Policy
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+* * *
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Privacy Policy[¶](#privacy-policy "Permanent link")
+---------------------------------------------------
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+### Usage of Data[¶](#usage-of-data "Permanent link")
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+The bot may use stored data, as defined below, for different features including but not limited to: Welcoming joining users (when enabled) and command handling.  
+No usage of data outside of the aformentioned cases will happen and the data is not shared with any 3rd-party site or service.
+
+### Stored Information[¶](#stored-information "Permanent link")
+
+The bot may store the following information automatically when being invited to a new Discord Server:
+*   `id` with the Server's ID as value.
+*   `user id` with the User's ID as value.
+*   `language` with value `en`
+*   `username` with value User's Username as value.
+
+Other stored data may include the user's level, coins and profile customization made on Nezuko.
+
+No other information outside of the above mentioned one will be stored.
+
+### Updating Data[¶](#updating-data "Permanent link")
+
+The data may be updated when using specific commands.  
+Updating data will require the input of an end user, and data that can be seen as sensitive, such as content of a message, may need to be stored when using certain commands.
+
+No other actions may update the stored information at any given time.
+
+### Temporarely stored Information[¶](#temporarely-stored-information "Permanent link")
+
+The Bot may keep the stored information in an internal cacheing mechanic for a certain amount of time.  
+After this time period, the cached information will be dropped and only be re-added when required.
+
+Data may be dropped from cache pre-maturely through actions such as removing the bot from the Server.
+
+### Removal of Data[¶](#removal-of-data "Permanent link")
+
+#### Automatic removal[¶](#automatic-removal "Permanent link")
+
+Stored Data can be removed automatically through means of removing the bot from a Server. This can be achieved by either kicking or banning the bot from the server. Re-inviting the bot will add the same default values, as mentioned above, back to the bot's database.
+
+#### Manual removal[¶](#manual-removal "Permanent link")
+
+Manual removal of the data can be requested through email at [support@miaxu.co](mailto:support@miaxu.co).  
+For security reasons will we ask you to provide us with proof of ownership of the server, that you wish the data to be removed of. Only a server owner may request manual removal of data and requesting it will result in the bot being removed from the server, if still present on it.
+
+Technical limitations
+
+The automatic removal of data has certain limitations that we cannot fix or avoid.  
+Limitations include, but aren't limited to, downtime of the bot due to maintenance or technical issues at our hosting provider or Discord Inc.
+
+In such events can you request [manual removal](#manual-removal) through email under the above mentioned conditions.
