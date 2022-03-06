@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Terms of Service
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+subtitle: Nezuko Bot's Terms of Service
+cover-img: https://insights.dice.com/wp-content/uploads/2018/10/Privacy-Policy-Dice.png
+thumbnail-img: https://www.mqa.international/FileUpload/07012021451344061414776-(1).png
 tags: [TOS]
 comments: true
 ---
 
-Bot[¶](#bot "Permanent link")
+Bot Terms of Service[¶](#bot "Permanent link")
 =============================
 
 This page covers the Terms of Service (Terms) and Privacy Policy of the Discord Bot \*Nezuko\*
