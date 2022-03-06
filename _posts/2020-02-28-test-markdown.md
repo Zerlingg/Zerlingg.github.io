@@ -1,78 +1,49 @@
 ---
 layout: post
-title: Sample blog post
+title: Terms of Service
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [TOS]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Bot[¶](#bot "Permanent link")
+=============================
 
-**Here is some bold text**
+This page covers the Terms of Service (Terms) and Privacy Policy of the Discord Bot \*Nezuko\*
 
-## Here is a secondary heading
+Terms of Service[¶](#terms-of-service "Permanent link")
+-------------------------------------------------------
 
-Here's a useless table:
+### Usage Agreement[¶](#usage-agreement "Permanent link")
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+By inviting the bot and using its features (commands, welcome system) are you agreeing to the below mentioned Terms and Privacy Policy (Policy) of the bot.
 
+You acknowledge that you have the priviledge to use the bot freely on any Discord Server (Server) you share with it, that you can invite it to any Server that you have "Manage Server" rights for and that this priviledge might get revoked for you, if you're subject of breaking the terms and/or policy of this bot, or the [Terms of Service](https://discord.com/terms), [Privacy Policy](https://discord.com/privacy) and/or [Community Guidelines](https://discord.com/guidelines) of [Discord Inc](https://discord.com).
 
-How about a yummy crepe?
+Through Inviting the bot may it collect specific data as described in its [Policy](#privacy-policy).  
+The intended usage of this data is for core functionalities of the bot such as command handling, guild-specific settings and the Welcoming System.
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+### Intended Age[¶](#intended-age "Permanent link")
 
-It can also be centered!
+The bot may not be used by individuals under the minimal age described in Discord's Terms of Service.  
+Features, such as commands which are marked as "NSFW" (Not safe for work) may not be used by individuals under the age of maturity in their country. Doing so will be seen as a violation of these terms and will result in a removal of the bot from any servers you own.
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+### Affiliation[¶](#affiliation "Permanent link")
 
-Here's a code chunk:
+The Bot is not affiliated with, supported or made by Discord Inc.  
+Any direct connection to Discord or any of its Trademark objects is purely coincidental. We do not claim to have the copyright ownership of any of Discord's assets, trademarks or other intellectual property.
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+### Liability[¶](#liability "Permanent link")
 
-And here is the same code with syntax highlighting:
+The owner of the bot may not be made liable for individuals breaking these Terms at any given time.  
+He has faith in the end users being truthfull about their information and not missusing this bot or The Services of Discord Inc in a malicious way.
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+We reserve the right to update these terms at our own discretion, giving you a 1-Week (7 days) period to opt out of these terms if you're not agreeing with the new changes.  
+You may opt out by Removing the bot from any Server you have the rights for.
 
-And here is the same code yet again but with line numbers:
+### Contact[¶](#contact "Permanent link")
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+People may get in contact through e-mail at [support@miaxu.co](mailto:support@miaxu.co), or through the official [Support Discord](https://discord.gg/shiba) of the Bot.  
+Other ways of support may be provided but aren't guaranteed.
