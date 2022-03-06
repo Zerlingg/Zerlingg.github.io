@@ -2,7 +2,7 @@
 layout: post
 title: Terms of Service
 subtitle: Nezuko Bot's Terms of Service
-cover-img: https://insights.dice.com/wp-content/uploads/2018/10/Privacy-Policy-Dice.png
+cover-img: /assets/img/banner.jpg
 thumbnail-img: https://www.mqa.international/FileUpload/07012021451344061414776-(1).png
 tags: [TOS]
 comments: true
