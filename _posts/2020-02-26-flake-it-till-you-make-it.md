@@ -5,7 +5,7 @@ subtitle: Nezuko Bot's Privacy Policy
 cover-img: https://www.mqa.international/FileUpload/07012021451344061414776-(1).png
 thumbnail-img: https://www.mqa.international/FileUpload/07012021451344061414776-(1).png
 share-img: https://www.mqa.international/FileUpload/07012021451344061414776-(1).png
-tags: [books, test]
+tags: [privacy policy]
 ---
 
 * * *
