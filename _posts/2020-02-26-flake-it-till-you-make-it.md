@@ -2,7 +2,7 @@
 layout: post
 title: Privacy Policy
 subtitle: Nezuko Bot's Privacy Policy
-cover-img: https://www.mqa.international/FileUpload/07012021451344061414776-(1).png
+cover-img: https://insights.dice.com/wp-content/uploads/2018/10/Privacy-Policy-Dice.png
 thumbnail-img: https://www.mqa.international/FileUpload/07012021451344061414776-(1).png
 share-img: https://www.mqa.international/FileUpload/07012021451344061414776-(1).png
 tags: [privacy policy]
